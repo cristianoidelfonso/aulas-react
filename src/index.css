@@ -1,0 +1,15 @@
+body {
+  padding: 0 0 500px 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul {
+  list-style: none;
+}

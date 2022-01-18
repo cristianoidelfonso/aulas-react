@@ -1,0 +1,11 @@
+.helloWorldContainer {
+    background-color: #333;
+    border: 1px solid #111;
+    color: #fff;
+}
+
+.contents {
+    color: #00FF00;
+    background-color: #c2af45;
+    margin: 2% 0;
+}
